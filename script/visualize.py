@@ -61,6 +61,6 @@ if __name__ == '__main__':
     plt.gca().spines['right'].set_visible(False)
     plt.gca().spines['left'].set_visible(False)
     plt.tight_layout()
-    plt.savefig(os.path.join(output_folderpath, 'figure_1.png'))
+    plt.savefig(os.path.join(output_folderpath, 'figure_1.png'), dpi=600)
     # end of script
     print('Done.')
