@@ -3,8 +3,8 @@ import os
 
 if __name__ == '__main__':
     # data locations
-    data_folderpath = '/home/hywu0110/fda_drug_approval/drugsatfda20190723'
-    output_folderpath = '/home/hywu0110/fda_drug_approval/output'
+    data_folderpath = '/home/hywu0110/FDA_drug_approval/processed_data/drugsatfda20190723'
+    output_folderpath = '/home/hywu0110/FDA_drug_approval/processed_data'
     submission_filename = 'Submissions.txt'
     product_filename = 'Products.txt'
     biologics_filename = 'biologics.csv'

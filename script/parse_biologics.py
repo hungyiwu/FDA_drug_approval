@@ -4,8 +4,8 @@ import os
 
 if __name__ == '__main__':
     # data locations
-    data_folderpath = '/home/hywu0110/fda_drug_approval'
-    output_folderpath = '/home/hywu0110/fda_drug_approval/output'
+    data_folderpath = '/home/hywu0110/FDA_drug_approval/processed_data'
+    output_folderpath = '/home/hywu0110/FDA_drug_approval/processed_data'
     bio_filename = 'fda_biologics_list.csv'
     # define regular expression patterns
     approval_date_pattern = r'\d{2}\/\d{2}\/\d{2}'
