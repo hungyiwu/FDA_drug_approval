@@ -1,6 +1,8 @@
 # FDA_drug_approval
 Provide an example visualization of drug approvals by FDA.
 
+![](figure_1.png)
+
 ## Python script
 ### ```parse_all_products.py```
 Parse tables in ```drugsatfda20190723.zip``` and obtain a table of approved products.
